@@ -2,3 +2,8 @@
 	path = OCA/l10n-switzerland
 	url = git@github.com:OCA/l10n-switzerland.git
 	branch = 10.0
+
+[submodule "hibou-io/odoo-hr-payroll"]
+	path = hibou-io/odoo-hr-payroll
+	url = git@github.com:hibou-io/odoo-hr-payroll.git
+	branch = 10.0
